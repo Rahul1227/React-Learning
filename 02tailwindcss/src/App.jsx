@@ -11,8 +11,8 @@ function App() {
     <h2 className='bg-green-400 text-black p-4 font-bold mb-3'>Welcome to DJ Party</h2>
     <div className='flex p-4 space-x-2 align-middle '>
     <Card singername="Naina" song="Arijit"/>
-    <Card singername="" song="Sonu"/>
-    <Card singername="" song="Mika"/>
+    <Card singername="Dil Chata hai" song="Sonu"/>
+    <Card singername="Choli ke piche" song="Mika"/>
     
 
    
