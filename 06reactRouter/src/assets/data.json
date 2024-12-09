@@ -1,0 +1,54 @@
+{
+    "jobs":[
+        {
+            "jobId":"1",
+            "title":"Software Engineer",
+            "description":"Build high-quality software solutions",
+            "salary":100000,
+            "id":"1"
+        },
+        {
+            "jobId":"2",
+            "title":"Data Scientist",
+            "description":"Analyze large datasets and make informed decisions",
+            "salary":150000,
+            "id":"2"
+        },
+        {
+            "jobId":"3",
+            "title":"Product Manager",
+            "description":"Lead the development and management of products",
+            "salary":120000,
+            "id":"3"
+        },
+        {
+            "jobId":"4",
+            "title":"UX/UI Designer",
+            "description":"Create visually appealing and user-friendly interfaces",
+            "salary":90000,
+            "id":"4"
+        },
+        {
+            "jobId":"5",
+            "title":"Project Manager",
+            "description":"Organize and coordinate projects",
+            "salary":130000,
+            "id":"5"
+        },
+        {
+            "jobId":"6",
+            "title":"QA Engineer",
+            "description":"Ensure the quality and reliability of software products",
+            "salary":110000,
+            "id":"6"
+        },
+        {
+            "jobId":"7",
+            "title":"Backend Developer",
+            "description":"Develop backend applications using programming languages",
+            "salary":140000,
+            "id":"7"
+        }
+
+    ]
+}
